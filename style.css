@@ -1,0 +1,59 @@
+.container{  display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    
+
+}
+
+
+
+.logo{
+    display: flex;
+    align-items:center ;
+    gap: 8px;
+    
+}
+.logo span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff007c;
+}
+
+.head .btn {
+    padding:  6px 15px;
+    border-radius:20px ;
+    font-size: 14px;
+    text-decoration: none;
+    cursor: pointer;
+    
+}
+
+
+.head{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+
+.head .Button {
+    border: 1px solid #ddd;
+    background-color: transparent;
+    color: #333;
+}
+
+
+.head .Button1 {
+    background-color: pink;
+border:none;
+color:white;
+
+}
+
+
